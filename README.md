@@ -18,9 +18,16 @@ You’re free to build on top of this project—whether it’s adding sounds, mo
 ---
 
 ## 🖼️ Preview
-
 - Day mode
+
+https://github.com/user-attachments/assets/c04ace9b-62f3-43fa-bb4e-8bc26799c55c
+
 - Night mode
+
+![night](https://github.com/user-attachments/assets/770e7d09-2dd0-4531-914e-79c37ed6481b)
+
 - Cloud and windmill animation in motion
+
+https://github.com/user-attachments/assets/2b5947c5-223d-4cc1-a4a0-bbfb9c09fe35
 
 ---

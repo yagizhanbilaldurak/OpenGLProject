@@ -1,8 +1,11 @@
 # Interactive Windmill Simulation with OpenGL
-
 This is a simple OpenGL project that simulates a windmill scene with interactive elements. You can control the wind speed and switch between day and night to see how the environment reacts in real-time.
 
 The project was built using C++ and OpenGL as a way to practice animation, UI controls, and basic interaction logic.
+
+The scene also features animated blades, moving clouds, and dynamic lighting to enhance the visual realism and user experience.
+
+
 
 ---
 

@@ -181,7 +181,7 @@ int main() {
 
     if (!glfwInit()) return -1;
 
-    GLFWwindow* window = glfwCreateWindow(WINDOW_WIDTH, WINDOW_HEIGHT, "OPENGL Project group 10", NULL, NULL);
+    GLFWwindow* window = glfwCreateWindow(WINDOW_WIDTH, WINDOW_HEIGHT, "OPENGL Project", NULL, NULL);
     if (!window) {
         glfwTerminate();
         return -1;
